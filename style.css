@@ -1,0 +1,15 @@
+#center {
+    text-align: center;
+    margin-top: 150px;
+    font-family: arial;
+}
+
+button {
+    font-size: 24px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+p {
+    font-size: 20px;
+}
